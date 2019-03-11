@@ -1,6 +1,6 @@
 **Cake.Sample**
 
-Contains [Cake](https://cakebuild.net/) build script containing following tasks
+Contains [Cake](https://cakebuild.net/) build script with following tasks
 
 **BuildSrc** - Builds `Cake.Sample.Console.csproj` project and puts output into `artifacts\build\src` folder.
 
