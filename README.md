@@ -16,3 +16,8 @@ Contains [Cake](https://cakebuild.net/) build script with following tasks
 **Q**: How to run ? 
 
 **A**: Open up the powershell and navigate to root directory (where `build.ps1` file is) and run ` ./build.ps1 -target [TaskName]`, ex, ` ./build.ps1 -target Test`
+
+
+**Q**: Any bonus ?
+
+**A**: Yup, you can find sample of `MSpec` unit tests (so exciting..)
