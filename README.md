@@ -11,3 +11,8 @@ Contains [Cake](https://cakebuild.net/) build script containing following tasks
 **Test** - Runs all the unit tests inside `Cake.Sample.Tests.csproj` and outputs result in console.
 
 **CleanAll** - Cleans up `artifacts` folder.
+
+
+**Q**: How to run ? 
+
+**A**: Open up the powershell and navigate to root directory (where `build.ps1` file is) and run ` ./build.ps1 -target [TaskName]`, ex, ` ./build.ps1 -target Test`
