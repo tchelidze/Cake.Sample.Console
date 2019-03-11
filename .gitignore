@@ -262,3 +262,6 @@ __pycache__/
 
 # Artifacts
 artifacts/
+
+# Cake tools folder
+tools/
