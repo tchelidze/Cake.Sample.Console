@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Machine.Specifications.Runner.Console</id>
+    <version>0.9.3</version>
+    <title>Machine.Specifications.Runner.Console</title>
+    <authors>Aaron Jensen, Alexander Groß, Daniel Marbach, et al.</authors>
+    <owners>Alexander Groß, Daniel Marbach</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://github.com/machine/machine.specifications.runner.console/blob/master/License.txt</licenseUrl>
+    <projectUrl>http://github.com/machine/machine.specifications.runner.console</projectUrl>
+    <iconUrl>http://github.com/machine/machine.specifications/raw/master/Misc/Machine.Specifications-128x128.png</iconUrl>
+    <description>Machine.Specifications.Runner.Console is the console runner for the Context/Specification framework Machine.Specifications</description>
+    <summary>Machine.Specifications Runner Console</summary>
+    <language>en-US</language>
+    <tags>test unit testing context specification bdd tdd mspec runner</tags>
+  </metadata>
+</package>
